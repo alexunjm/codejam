@@ -1,5 +1,11 @@
 {
     "cSpell.words": [
         "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    ],
+    "gitflow4code.features": [
+        {
+            "name": "feature/interactive-problem",
+            "base": "develop"
+        }
     ]
 }
